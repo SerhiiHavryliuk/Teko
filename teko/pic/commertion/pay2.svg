@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="51.722px" height="40.231px" viewBox="0 0 51.722 40.231" enable-background="new 0 0 51.722 40.231" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="51.721" height="40.231"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#2B3137" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M45.127,39.231H6.594C3.505,39.231,1,36.726,1,33.637V13.479c0-3.09,2.505-5.595,5.594-5.595h38.533
+		c3.09,0,5.594,2.505,5.594,5.595v20.158C50.721,36.726,48.217,39.231,45.127,39.231z"/>
+	
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#2B3137" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M1.188,11.827C0.777,8.765,2.91,5.952,5.952,5.543l33.53-4.494c3.041-0.408,5.839,1.744,6.25,4.806l0.256,1.914"/>
+	
+		<circle clip-path="url(#SVGID_2_)" fill="none" stroke="#2B3137" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="39.567" cy="23.692" r="4.741"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#2B3137" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="50.067" y1="23.442" x2="44.308" y2="23.442"/>
+</g>
+</svg>

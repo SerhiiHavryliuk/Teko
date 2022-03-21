@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="89.331px" height="77.349px" viewBox="0 0 89.331 77.349" enable-background="new 0 0 89.331 77.349" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" y="0" width="89.331" height="77.348"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	
+		<polygon clip-path="url(#SVGID_2_)" fill="none" stroke="#2B3137" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		75.75,75.849 1.5,75.849 1.5,1.5 87.831,1.5 87.831,64.413 	"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#2B3137" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="30.317" y1="1.5" x2="30.317" y2="74.696"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#2B3137" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1.932" y1="38.818" x2="87.542" y2="38.818"/>
+</g>
+<line fill="none" stroke="#2B3137" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="37.521" y1="10.435" x2="72.559" y2="10.435"/>
+<line fill="none" stroke="#2B3137" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="37.521" y1="17.355" x2="72.559" y2="17.355"/>
+<line fill="none" stroke="#2B3137" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="37.521" y1="24.275" x2="62.178" y2="24.275"/>
+<line fill="none" stroke="#2B3137" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="37.521" y1="47.632" x2="72.559" y2="47.632"/>
+<line fill="none" stroke="#2B3137" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="37.521" y1="54.553" x2="72.559" y2="54.553"/>
+<line fill="none" stroke="#2B3137" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="37.521" y1="61.474" x2="62.178" y2="61.474"/>
+<rect x="7.832" y="8.039" fill="#2B3137" width="12.458" height="12.458"/>
+<rect x="7.832" y="45.062" fill="#2B3137" width="12.458" height="12.458"/>
+<g>
+	<defs>
+		<rect id="SVGID_3_" y="0" width="89.331" height="77.348"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_3_"  overflow="visible"/>
+	</clipPath>
+	
+		<polyline clip-path="url(#SVGID_4_)" fill="none" stroke="#2B3137" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		87.831,64.412 76.001,64.412 76.001,75.849 	"/>
+</g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="178.216px" height="136.139px" viewBox="0 0 178.216 136.139" enable-background="new 0 0 178.216 136.139"
+	 xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="178.216" height="136.139"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	
+		<polygon clip-path="url(#SVGID_2_)" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		47.576,66.402 2.5,21.76 175.357,2.5 	"/>
+	
+		<polygon clip-path="url(#SVGID_2_)" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		48.996,68.046 115.929,133.639 175.716,3.055 	"/>
+</g>
+<polyline fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+	48.996,68.046 48.996,113.756 73.111,92.753 "/>
+</svg>
